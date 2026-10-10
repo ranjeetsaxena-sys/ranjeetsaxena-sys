@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ranjeet Saxena 👋
+
+## About Me
+- 🎓 BCA Student
+- 📊 Aspiring Data Analyst
+- 📈 Learning Excel, SQL, Power BI, and Python
+- 💡 Interested in data analysis and problem-solving
+- 🚀 Building projects to improve my analytical skills
+
+## Skills I'm Learning
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Visualization
+
+## Current Goal
+To become a Data Analyst and build practical projects
+using real-world datasets.
+
+## Connect With Me
+- GitHub: @ranjeetsaxena-sys
 
 <!--
 **ranjeetsaxena-sys/ranjeetsaxena-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
